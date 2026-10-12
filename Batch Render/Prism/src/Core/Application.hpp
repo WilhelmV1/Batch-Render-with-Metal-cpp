@@ -1,6 +1,6 @@
 //
 //  Application.hpp
-//  Super Mario Bros 3
+//  Batch Render
 //
 //  Created by William Bustamante on 05/10/26.
 //
